@@ -1,7 +1,7 @@
 url: https://www.comparacar.com.br/comprar/carro
-status: up
-code: 200
-responseTime: 27650
-lastUpdated: 2023-06-30T00:50:53.692Z
+status: down
+code: 500
+responseTime: 11466
+lastUpdated: 2023-06-30T18:44:05.762Z
 startTime: Thu Jun 22 2023 21:23:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
