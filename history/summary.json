@@ -44,7 +44,7 @@
     "url": "https://www.comparacar.com.br/comprar/carro",
     "icon": "https://icons.duckduckgo.com/ip3/www.comparacar.com.br.ico",
     "slug": "comprar-carro",
-    "status": "up",
+    "status": "down",
     "uptime": "97.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.35%",
@@ -56,6 +56,7 @@
     "timeMonth": 3971,
     "timeYear": 4330,
     "dailyMinutesDown": {
+      "2023-07-31": 0,
       "2023-07-29": 333,
       "2023-07-28": 326,
       "2023-07-25": 12,
