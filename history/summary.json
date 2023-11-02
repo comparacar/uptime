@@ -4,9 +4,9 @@
     "url": "https://www.comparacar.com.br/assinar",
     "icon": "https://icons.duckduckgo.com/ip3/www.comparacar.com.br.ico",
     "slug": "assinar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 370,
     "timeMonth": 413,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-02": 0
+    }
   },
   {
     "name": "/assinar/carro",
@@ -52,15 +54,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.comparacar.com.br.ico",
     "slug": "comprar-carro",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "98.87%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "98.88%",
     "time": 3826,
     "timeDay": 1633,
     "timeWeek": 5678,
-    "timeMonth": 4368,
+    "timeMonth": 4465,
     "timeYear": 3826,
     "dailyMinutesDown": {
       "2023-10-30": 39,
