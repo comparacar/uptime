@@ -1,7 +1,7 @@
 url: https://www.comparacar.com.br/assinar/carro
-status: down
-code: 500
-responseTime: 10286
-lastUpdated: 2024-05-21T18:08:26.393Z
+status: up
+code: 200
+responseTime: 485
+lastUpdated: 2024-05-21T18:27:26.527Z
 startTime: 2023-06-22T21:23:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
